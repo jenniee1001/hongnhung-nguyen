@@ -72,7 +72,7 @@ dt { font-weight: bold; }
 dd { margin: 0 0 20px; }
 ul, ol { list-style-type: none; padding: 0; margin: 0;}
 ul li { padding:0 0 0 20px; margin: 0 0 8px 0; position: relative;}
-ul li:before { content: "_"; color: #1ebd65; font-weight: 700; left: 0; margin-left: 0; position: absolute; top: -7px;}
+ul li:before { content: "_"; color: #de5283; font-weight: 700; left: 0; margin-left: 0; position: absolute; top: -7px;}
 ins { text-decoration: none;}
 pre { white-space: pre-wrap; word-break: keep-all; }
 blockquote::before, blockquote::after, q::before, q::after { content: none; content: ''; }
