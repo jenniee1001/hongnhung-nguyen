@@ -1079,7 +1079,7 @@ footer .fa { font-size: 16px; margin: 7px 15px 0;}
 
 @-webkit-keyframes cd-pulse {
     0% {
-        box-shadow: 0 0 0 0 #1dbc64;
+        box-shadow: 0 0 0 0 #b94870;
     }
     80% {
         box-shadow: 0 0 0 13px rgba(255, 150, 44, 0);
@@ -1087,7 +1087,7 @@ footer .fa { font-size: 16px; margin: 7px 15px 0;}
 }
 @-moz-keyframes cd-pulse {
     0% {
-        box-shadow: 0 0 0 0 #1dbc64;
+        box-shadow: 0 0 0 0 #b94870;
     }
     80% {
     box-shadow: 0 0 0 13px rgba(255, 150, 44, 0);
@@ -1095,7 +1095,7 @@ footer .fa { font-size: 16px; margin: 7px 15px 0;}
 }
 @keyframes cd-pulse {
     0% {
-        box-shadow: 0 0 0 0 #1dbc64;
+        box-shadow: 0 0 0 0 #b94870;
     }
     80% {
         box-shadow: 0 0 0 13px rgba(255, 150, 44, 0);
