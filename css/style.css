@@ -85,7 +85,7 @@ embed, iframe, object, video { max-width: 100%; margin: 0; padding: 0; border: 0
 .alignleft { float: left; margin-right: 30px; margin-bottom: 20px; }
 .alignright { float: right; margin-left: 30px; margin-bottom: 20px; }
 .aligncenter { display: block; margin-left: auto; margin-right: auto; float: none; }
-.dropcap:first-letter { float: left; font-size: 50px; line-height: 40px; padding-top: 5px; padding-right: 10px; padding-left: 3px; font-weight: 700!important; margin-left: 0!important; color:#1ebd65 }
+.dropcap:first-letter { float: left; font-size: 50px; line-height: 40px; padding-top: 5px; padding-right: 10px; padding-left: 3px; font-weight: 700!important; margin-left: 0!important; color:#de5283 }
 mark { font-size:12px; font-weight: 700; padding: 3px 10px 0; color: #fff; text-align: center; letter-spacing: 1px !important;}
 small { font-size: 12px;}
 .form-control:focus{border: none; outline:0;-webkit-box-shadow:none;box-shadow:none}
