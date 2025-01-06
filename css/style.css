@@ -673,7 +673,7 @@ header { background-color: #161616; position: fixed; z-index: 999; width: 100vw;
 .cd-slideshow-nav.nav-open .cd-nav-items { -webkit-transform: translateX(0); -moz-transform: translateX(0); -ms-transform: translateX(0); -o-transform: translateX(0); transform: translateX(0); }
 .cd-slideshow-nav.nav-open .cd-nav-items > ol { -webkit-overflow-scrolling: touch; }
 .cd-nav-trigger { position: relative; z-index: 9999; height: 33px; width: 35px; cursor: pointer; border: none; outline: none; background-color: #161616; overflow: hidden; text-indent: 100%; white-space: nowrap; color: transparent; float: right; }
-.cd-nav-trigger span, .cd-nav-trigger span::after, .cd-nav-trigger span::before { position: absolute; height: 3px; width: 17px; background-color: #1ebd65; }
+.cd-nav-trigger span, .cd-nav-trigger span::after, .cd-nav-trigger span::before { position: absolute; height: 3px; width: 17px; background-color: #de5283; }
 .cd-nav-trigger span { left: 9px; top: 15px; bottom: auto; right: auto; -webkit-transform: translateX(0%) translateY(0%); -moz-transform: translateX(0%) translateY(0%); -ms-transform: translateX(0%) translateY(0%); -o-transform: translateX(0%) translateY(0%); transform: translateX(0%) translateY(0%); -webkit-transition: background-color 0.3s; -moz-transition: background-color 0.3s; transition: background-color 0.3s; }
 .cd-nav-trigger span::after, .cd-nav-trigger span::before { content: ''; left: 0; -webkit-transition: -webkit-transform 0.3s; -moz-transition: -moz-transform 0.3s;  transition: transform 0.3s; }
 .cd-nav-trigger span::before { -webkit-transform: translateY(-6px); -moz-transform: translateY(-6px); -ms-transform: translateY(-6px); -o-transform: translateY(-6px); transform: translateY(-6px); }
@@ -832,7 +832,7 @@ header { background-color: #161616; position: fixed; z-index: 999; width: 100vw;
 .nav-tabs > li { margin: 0 11px; line-height: 20px;}
 .nav-tabs > li.active > a:before { border-bottom:1px solid #6d6d6d; color: #de5283; content: ""; left: 0; position: absolute; top: 8px; width: 100%; z-index: 1;}
 .nav-tabs > li > a { font-size: 12px; font-weight: 500; line-height: 20px; padding: 0 10px; display: inline-block; margin: 0; border: 0; }
-.nav-tabs > li > a:hover, .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border: 0; border-radius: 0; background: transparent; color: #1ebd65;}
+.nav-tabs > li > a:hover, .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border: 0; border-radius: 0; background: transparent; color: #de5283;}
 
 /* portfolio grid - 4 column  */
 .work-4col .grid li { width: 25%;}
